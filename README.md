@@ -2,27 +2,27 @@
 
 ![](pictures/logo.png)
 
-# DiIiS Project
+# DiIiS项目
 
-DiIiS is a fully-functional open-source local server for [Diablo III: Reaper of Souls](https://eu.diablo3.blizzard.com).
+DiIiS是一个功能齐全的开源本地服务器，用于 [暗黑破坏神III：灵魂收割者](https://eu.diablo3.blizzard.com).
 
-## Features
+## 特色
 
-- Implemented account creation system, authorization and lobby.
-- Implemented Necromancer class mechanics.
-- Fully implemented chat system and friends.
-- Fully implemented clan system.
-- Implemented basic DRLG (dungeon generator).
-- Implemented item generator with in-game affixes.
-- Implemented the basic mechanics of almost all active abilities for all classes.
-- Implemented a system of set items.
-- Implemented all main scripts for all story quests 5 acts.
-- Implemented basic scripts and generator for "Adventure Mode".
-- Implemented the basis for the "Challenge Nephalem Rifts" mode.
-- Implemented artificial intelligence for 80% of minions.
-- Implemented personal artificial intelligence for 40% of all monsters.
-- Implemented personal artificial intelligence for half of the Bosses.
-- Implemented LAN
+-实现账户创建系统、授权和大厅
+-实现死灵法师
+-完全实现的聊天系统和社交
+-全面实现宗族制度
+-实现了基本的DRLG（副本生成器）
+-实现了带有游戏内词缀的项目生成器
+-实现了所有职业几乎所有活动能力的基本机制
+-实现了一个集合项目系统
+-实现了所有故事任务5幕的所有主要脚本
+-实现了“冒险模式”的基本脚本和生成器
+-实现了“挑战侄子步枪”模式的基础
+-为80%的小怪实现了人工智能
+-为40%的怪物实现了个人人工智能
+-为半数BOSS实施了个人人工智能
+-实现了LAN
 
 ## Restrictions
 
